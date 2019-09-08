@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="WebDriver">
+
+<test name="test">
+<classes>
+  <class name="edurekaclass.NewTest"></class>
+
+</classes>
+ </test>
+ 
+ </suite>
+  
